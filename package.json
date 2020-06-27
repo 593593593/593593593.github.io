@@ -1,0 +1,22 @@
+{
+    "name": "593",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "homepage": "https://593593593.github.io/",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/593593593/593593593.github.io.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://593593593.github.io/LICENSE"
+        }
+    ],
+    "keywords": [
+        "0xtest_1",
+        "0xtest_2",
+        "0xtest_3"
+    ]
+}
